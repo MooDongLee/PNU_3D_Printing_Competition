@@ -1,8 +1,8 @@
 # PNU_3D_Printing_Competition
-기간 : 2018.05.01 ~ 2018.10.26 (부산대학교 기계공학부 창의적공학설계 실습 과정)
-Project 내용: 공모전 발표 내역_Team Rocks.pptx 참고
-사용한 기자재: 3D Printing
-상세 설명
+- 기간 : 2018.05.01 ~ 2018.10.26 (부산대학교 기계공학부 창의적공학설계 실습 과정)
+- Project 내용: 공모전 발표 내역_Team Rocks.pptx 참고
+- 사용한 기자재: 3D Printing
+- 상세 설명
 한국정밀공학회에서 주관한 '제3회 3D 프린팅 활용 창의 경진대회'에 참가하여 최소한의 자중으로 최대한의 하중을 버티는 교량 구조를 설계 및 제작. 107kg의 수직하중 지지.
 ![1](https://github.com/MooDongLee/PNU_3D_Printing_Competition/assets/47058935/e8a22d56-5a10-44a9-b9d0-c9e45008df3b)
 ![2](https://github.com/MooDongLee/PNU_3D_Printing_Competition/assets/47058935/b2458ec3-3e25-46cb-92b8-4617caada280)
