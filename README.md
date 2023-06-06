@@ -1,6 +1,7 @@
 # PNU_3D_Printing_Competition
 - 기간 : 2018.05.01 ~ 2018.10.26 (제3회 3D 프린팅 활용 창의 경진대회)
 - Project 내용: 공모전 발표 내역_Team Rocks.pptx 참고
+- 발표 영상 : https://www.youtube.com/watch?v=B-IDxinnWpM
 - 사용한 기자재: 3D Printing
 - 상세 설명
 1) 한국정밀공학회에서 주관한 '제3회 3D 프린팅 활용 창의 경진대회'에 참가하여 최소한의 자중으로 최대한의 하중을 버티는 교량 구조를 설계 및 제작. 107kg의 수직하중 지지.
